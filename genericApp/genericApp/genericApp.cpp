@@ -17,4 +17,17 @@ int main()
     }
     //This is an extra comment from Riomh
     //============
+
+    //westerns Code
+    //============
+      bool accept = false;
+      cout << "be accepted in to the brother hood of B O N K";
+      cin >> accept;
+
+      if (accept == true) {
+        cout << "then the sound of the holy bonk will echo through history";
+      } else {
+        cout >> "then begone with you heretic";
+      }
+    //============
 }
