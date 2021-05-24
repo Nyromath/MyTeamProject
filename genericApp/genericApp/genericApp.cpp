@@ -19,6 +19,7 @@ int main()
     //Riomh's Code
     //============
     int bottles, i;
+
     cout << "ya got bottles?\t";
     cin >> bottles;
 
