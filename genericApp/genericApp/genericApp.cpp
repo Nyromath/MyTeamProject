@@ -19,7 +19,7 @@ int main()
     //Riomh's Code
     //============
     int bottles, i;
-    cout << "How many bottles?\t";
+    cout << "Give me some bottles\t";
     cin >> bottles;
 
     for (i = bottles; i > 0; i--) {
