@@ -4,6 +4,14 @@
 #include <ctime>
 using namespace std;
 
+//Riomh's Function
+//==========
+void pointless_function()
+{
+    cout << "Why did you run this? What are you doing? Idiot.\n";
+}
+//==========
+
 int main()
 {
     //Riomh's Code
@@ -16,6 +24,8 @@ int main()
         cout << i << " bottles of beer on the wall, " << i << " bottles of beer. Take one down, drink it down, " << i - 1 << " bottles of beer on the wall\n";
     }
     //This is an extra comment from Riomh
+
+    pointless_function();
     //============
 
     //westerns Code
