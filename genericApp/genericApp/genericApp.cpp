@@ -9,6 +9,8 @@ using namespace std;
 void pointless_function()
 {
     cout << "Why did you run this? What are you doing? Idiot.\n";
+
+    cout << "\nI'm sorry, that was rude, you're not an idiot. But seriously though, what was the point of this function?\n";
 }
 //==========
 
