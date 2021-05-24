@@ -1,2 +1,2 @@
 ﻿  genericApp.cpp
-  genericApp.vcxproj -> C:\Users\270121842\OneDrive - UP Education\Desktop\CS103\Cloned_Folder\MyTeamProject\genericApp\Debug\genericApp.exe
+C:\Users\270121842\OneDrive - UP Education\Desktop\CS103\Cloned_Folder\MyTeamProject\genericApp\genericApp\genericApp.cpp(42,14): error C2676: binary '>>': 'std::ostream' does not define this operator or a conversion to a type acceptable to the predefined operator
