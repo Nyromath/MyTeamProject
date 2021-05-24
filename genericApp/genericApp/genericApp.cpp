@@ -16,4 +16,17 @@ int main()
         cout << i << " bottles of beer on the wall, " << i << " bottles of beer. Take one down, drink it down, " << i - 1 << " bottles of beer on the wall\n";
     }
     //============
+
+    //westerns Code
+    //============
+      bool accept = false;
+      cout << "be accepted in to the brother hood of B O N K";
+      cin >> accept;
+
+      if (accept == true) {
+        cout << "then the sound of the holy bonk will echo through history";
+      } else {
+        cout >> "then begone with you heretic";
+      }
+    //============
 }
